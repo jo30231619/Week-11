@@ -27,8 +27,6 @@ var origBoard;
 const player1 = 'O';
 const player2 = 'X';
 var currentPlayer = player1;
-const myModal = document.getElementById('myModal');
-const myInput = document.getElementById('myInput');
 const winCombos = [
     [0,1,2],
     [3,4,5,],
